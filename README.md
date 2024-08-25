@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Alejandrogv2304/Alejandrogv2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Alejandro Gómez
 
-Here are some ideas to get you started:
+**Systems Engineering || Junior Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated junior developer. My interests are focused on web development, Data Science, and software engineering. I strongly believe that technology can empower communities, and I am committed to contributing to projects that have a positive impact on the community.
+
+- 💼 Currently working on: A study room reservation system using React and Node.js.
+- 🌱 Learning more about: Back-end Development
+- 🚀 Future Goals: Contributing to open-source projects and creating projects that make others' tasks more efficient.
+- ⚡ Fun fact: I am passionate about solving programming challenges and being able to teach others.
+
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/alejandro-gomez-a2452320a/)
