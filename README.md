@@ -13,3 +13,12 @@ I am a Systems Engineering student at Universidad Industrial de Santander and a 
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alejandro-gomez-a2452320a/)
+
+##Languajes and Frameworks:
+<img align="left" alt="C++" width="40px" src="https://github.com/tu_usuario/tu_repositorio/blob/main/assets/icons/cplusplus.png" />
+<img align="left" alt="Java" width="40px" src="https://github.com/tu_usuario/tu_repositorio/blob/main/assets/icons/java.png" />
+<img align="left" alt="Python" width="40px" src="https://github.com/tu_usuario/tu_repositorio/blob/main/assets/icons/python.png" />
+<img align="left" alt="PyTorch" width="40px" src="https://github.com/tu_usuario/tu_repositorio/blob/main/assets/icons/pytorch.png" />
+<img align="left" alt="TensorFlow" width="40px" src="https://github.com/tu_usuario/tu_repositorio/blob/main/assets/icons/tensorflow.png" />
+
+<br />
