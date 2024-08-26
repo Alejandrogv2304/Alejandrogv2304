@@ -1,4 +1,4 @@
-![Descripción de la imagen](https://github.com/Alejandrogv2304/Alejandrogv2304/blob/main/DALL·E%202024-08-25%2018.42.47%20-%20A%20banner%20similar%20to%20the%20one%20provided%2C%20with%20the%20name%20'Alejandro%20Gómez'%20prominently%20displayed%20in%20the%20center.%20Below%20the%20name%2C%20include%20the%20title%20'Junior%20D.webp)
+![Imagen representativa](https://github.com/Alejandrogv2304/Alejandrogv2304/blob/main/cropped_image.png)
 
 # Hi there 👋, I'm Alejandro Gómez
 
