@@ -8,11 +8,16 @@
 
 I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated junior developer. My interests are focused on web development, Data Science, and software engineering. I strongly believe that technology can empower communities, and I am committed to contributing to projects that have a positive impact on the community.
 
-- 💼 Currently working on: A study room reservation system using React and Node.js.
-- 🌱 Learning more about: Back-end Development
+- 💼 Currently working on: Varchat social Network.
+- 🌱 Learning more about: Back-end Development with NestJs.
 - 🚀 Future Goals: Contributing to open-source projects and creating projects that make others' tasks more efficient.
 - ⚡ Fun fact: I am passionate about solving programming challenges and being able to teach others.
 - 📫 Reach out to me at: <a href="alejandrogv.1011@gmail.com">alejandrogv.1011@gmail.com</a>
+
+## My favorite projects
+- RoomiesU: Final project of Software Engineering I. Full-stack system focused on renting houses for university students.
+- TruckApp: Full-stack system for management of trucks.
+- Varchat: My personal social network. Currently, I am working on it.
 
 ## My Skills Include
 
