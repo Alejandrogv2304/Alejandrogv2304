@@ -65,8 +65,15 @@ I am a Systems Engineering student at Universidad Industrial de Santander and a 
 
 <h2>GitHub Stats:</h2>
 
-<!-- Estadísticas generales -->
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroGv2304&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/AlejandroGv2304)
+<h2 align="center">💻 Lenguajes más utilizados</h2>
+
+<p align="center">
+  <img
+    src="./metrics.languages.svg"
+    alt="Lenguajes utilizados"
+    width="600"
+  />
+</p>
 
 <!-- Racha de contribuciones -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlejandroGv2304&theme=tokyonight&hide_border=true)](https://github.com/AlejandroGv2304)
